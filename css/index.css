@@ -107,3 +107,14 @@ samp {
     color: white;
 
 }
+.parrafo{
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+}
+
+.img{
+ display: inline-block;
+ height: 120px;
+ width: 150px;
+}
