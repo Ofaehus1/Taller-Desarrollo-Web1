@@ -131,6 +131,9 @@ samp {
 }
 
 .u{
+
+    margin-top: 5px;
+    margin-left: 13%;
     color: wheat;
     font-size: 25px;
 } 
