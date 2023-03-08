@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Raleway', sans-serif;
-    ;
+
 
 }
 
@@ -44,8 +44,8 @@ nav ul li a:hover {
 }
 
 .Titulo-h1 {
-
-    font-size: 35px;
+    text-align: justify;
+    font-size: 40px;
     margin-top: 5%;
     padding-top: 20px;
     padding-left: 15%;
@@ -57,20 +57,21 @@ nav ul li a:hover {
     text-align: center;
     margin-right: 55%;
     margin-top: 1%;
-    font-size: 22px;
+    font-size: 24px;
 }
 
 .P {
 
-    margin-left: 13%;
+    margin-left: 17%;
     margin-top: 1%;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 samp {
     color: hwb(273 0% 0%);
     font-weight: bold;
     text-align: center;
+    font-size: 25px;
 }
 
 .Logos {
@@ -78,13 +79,15 @@ samp {
     margin-left: 18%;
     display: inline-block;
 
+
 }
 
-.Foto{
+.Foto img {
     float: right;
-    margin-top: 1%;
-    height: 400px;
-    width: 400px;
+    margin-top: 5%;
     margin-right: 15%;
+    border-radius: 15% 20px;
+
+
 
 }
