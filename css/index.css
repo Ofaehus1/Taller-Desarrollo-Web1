@@ -131,19 +131,27 @@ samp {
 }
 
 .u{
-
     margin-top: 10px;
-    margin-right: 10PX;
+    margin-left: 35%;
     color: wheat;
-    font-size: 25px;
+    font-size: 20px;
+    display: inline-block;
 } 
 .u2{
-    margin-left: 10px;
+    margin-left: 58%;
     color: wheat;
-    font-size: 25px;
+    font-size: 20px;
+    display: inline-block;
 }
 .a{
     color: white;
     margin-left: 35%;
+    display: inline-block;
+}
+
+.a2{
+    color: white;
+    margin-left: 65%;
+    display: inline-block;
 }
 
