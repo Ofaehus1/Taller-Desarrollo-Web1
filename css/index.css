@@ -94,15 +94,16 @@ samp {
 
 .contenedor2 {
 
-    margin-top: 10%;
+    margin-top: 150PX;
     background-color: #1f1e1e;
+    height: 400PX;
+    width: 100%;
 
 }
 
 
 .titulo_principal {
 
-    margin-top: 45px;
     font-size: 40px;
     text-align: center;
     font-weight: bold;
@@ -110,7 +111,10 @@ samp {
 
 }
 
+
 .parrafo {
+    
+    margin-top: 100px;
     text-align: center;
     color: white;
     margin-top: 15px;
@@ -120,13 +124,14 @@ samp {
 
     margin-right: 10px;
     margin-left: 35%;
-    margin-top: 30px;
+    margin-top: 50px;
 
 }
 
 .img2 {
 
     margin-left: 13%;
+    margin-top: 50px;
 
 
 }
@@ -134,29 +139,29 @@ samp {
 .u{
     
     margin-top: 15px;
-    margin-left: 35%;
+    margin-left: 31%;
     color: wheat;
-    font-size: 20px;
+    font-size: 18px;
     
 } 
 .u2{
-    margin-top: -70PX;
-    margin-left: 58%;
+    margin-top: -40PX;
+    margin-left: 57%;
     color: wheat;
-    font-size: 20px;
+    font-size: 18px;
     display: flex;
   
 }
 .a{
     color: white;
-    margin-left: 35%;
+    margin-left: 36%;
     
 }
 
 .a2{
     
     color: white;
-    margin-left: 58%;
+    margin-left: 57.4%;
     
 }
 
