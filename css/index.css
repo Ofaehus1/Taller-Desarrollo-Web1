@@ -6,6 +6,9 @@
 
 
 }
+html {
+    background-color: #eaf0f2;
+}
 
 .contenedor-nav {
     height: 100%;
@@ -234,16 +237,17 @@ samp {
 .icono{
     margin-top: -126px;
     margin-left: 320px;
-    margin-bottom: 15%;
+    margin-bottom: 10%;
 }
 .icono_1{
     margin-top: -60px;
     margin-left: 380px;
-    margin-bottom: 15%;
+    margin-bottom: 10%;
 }
 
 .icono_2{
     margin-top: -60px;
     margin-left: 380px;
-    margin-bottom: 15%;
+  
+
 }
