@@ -140,18 +140,18 @@ samp {
     
 } 
 .u2{
-    
+    margin-top: -70PX;
     margin-left: 58%;
     color: wheat;
     font-size: 20px;
     display: flex;
+  
 }
 .a{
     color: white;
     margin-left: 35%;
     
 }
-<<<<<<< HEAD
 
 .a2{
     
@@ -161,8 +161,6 @@ samp {
 }
 
 
-=======
 /**
 TRABAJE PUUES
 */
->>>>>>> 898f9b106e2b8bcc783652aa060e742175a1dd0a
