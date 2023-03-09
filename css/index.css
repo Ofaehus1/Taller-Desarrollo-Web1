@@ -4,7 +4,16 @@
     box-sizing: border-box;
     font-family: 'Raleway', sans-serif;
 
+
 }
+
+body::-webkit-scrollbar {
+    width: 5PX;
+}
+body::-webkit-scrollbar-thumb{
+    background-color: rgb(128, 6, 243);
+}
+
 html {
     background-color: #eaf0f2;
 }
@@ -115,7 +124,7 @@ samp {
 
 
 .parrafo {
-    
+
     margin-top: 100px;
     text-align: center;
     color: white;
@@ -138,40 +147,42 @@ samp {
 
 }
 
-.u{
-    
+.u {
+
     margin-top: 15px;
     margin-left: 31%;
     color: white;
     font-size: 18px;
     font-weight: bold;
-    
-} 
-.u2{
+
+}
+
+.u2 {
     margin-top: -44PX;
     margin-left: 57%;
     color: white;
     font-size: 18px;
     display: flex;
     font-weight: bold;
-  
+
 }
-.a{
+
+.a {
     margin-top: 5px;
     color: white;
     margin-left: 36%;
-    
+
 }
 
-.a2{
+.a2 {
     margin-top: 5px;
     color: white;
     margin-left: 57.4%;
-    
+
 }
 
 
-.titulo-ex{
+.titulo-ex {
 
     margin-top: 50px;
     text-align: center;
@@ -179,7 +190,8 @@ samp {
     font-size: 30px;
 
 }
-.titulo-h2{
+
+.titulo-h2 {
 
     display: inline-block;
     margin-left: 45.5%;
@@ -187,7 +199,8 @@ samp {
     font-weight: bold;
 
 }
-.Titulo--h2{
+
+.Titulo--h2 {
 
     display: flex;
     margin-left: 46.5%;
@@ -195,7 +208,8 @@ samp {
     font-weight: bold;
 
 }
-.Titulo---h2{
+
+.Titulo---h2 {
 
     display: flex;
     margin-left: 45%;
@@ -204,49 +218,53 @@ samp {
 
 }
 
-.Pp{
+.Pp {
     display: flex;
     margin-left: 44%;
 }
 
-.pp-{
+.pp- {
     display: flex;
     margin-left: 45.5%;
 }
 
-.pp{
+.pp {
     display: flex;
     margin-left: 46.1%;
 }
 
-.h2--{
+.h2-- {
     margin-left: 65%;
     margin-top: -45px;
 
 }
-.h2---{
+
+.h2--- {
     margin-left: 65%;
     margin-top: -45px;
 
 }
-.H2{
+
+.H2 {
     margin-left: 64.4%;
-    margin-top: -45px;    
+    margin-top: -45px;
 }
-.icono{
+
+.icono {
     margin-top: -126px;
     margin-left: 320px;
     margin-bottom: 10%;
 }
-.icono_1{
+
+.icono_1 {
     margin-top: -60px;
     margin-left: 380px;
     margin-bottom: 10%;
 }
 
-.icono_2{
+.icono_2 {
     margin-top: -60px;
     margin-left: 380px;
-  
+
 
 }
