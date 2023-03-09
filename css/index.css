@@ -193,6 +193,19 @@ samp {
     font-weight: bold;
 
 }
+.Titulo---h2{
+
+    display: flex;
+    margin-left: 45%;
+    margin-top: -90px;
+    font-weight: bold;
+
+}
+
+.Pp{
+    display: flex;
+    margin-left: 44%;
+}
 
 .pp-{
     display: flex;
@@ -214,12 +227,22 @@ samp {
     margin-top: -45px;
 
 }
+.H2{
+    margin-left: 64.4%;
+    margin-top: -45px;    
+}
 .icono{
     margin-top: -126px;
     margin-left: 320px;
     margin-bottom: 15%;
 }
 .icono_1{
+    margin-top: -60px;
+    margin-left: 380px;
+    margin-bottom: 15%;
+}
+
+.icono_2{
     margin-top: -60px;
     margin-left: 380px;
     margin-bottom: 15%;
