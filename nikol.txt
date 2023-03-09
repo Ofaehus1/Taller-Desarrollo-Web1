@@ -1,0 +1,26 @@
+ <div class="contenedor2" id="acerca">
+
+            <h2 class="titulo_principal">Acerca de mí </h2>
+
+            <p class="parrafo"> Lorem ipsum, dolor sit amet
+                consecteturadipisicing elit. A
+                <br>
+                veniam beatae nemo vel excepturi etobcaecati quo! Ducimus, a
+                illum.</p>
+
+            <div class="imagen">
+                <img class="img1"
+                    src="https://play-lh.googleusercontent.com/iiYw0WFafvR829Y1fkf2-CWLCtXP9jbTadkk_d6NpTnS32ZKtEmBCyhz-IcksEgkJQ
+                    "
+                    width="100">
+                <img class="img2"
+                    src="https://radcolombia.org/web/sites/default/files/archivos/instituciones/universidad-catolica-luis-amigo/logo-funlam.png"
+                    width="100">
+                <p class="u">Tecnologico de Antioquia </p>
+                <p class="a">2017-2019</p>
+
+                <p class="u2">Luis Amigo </p>
+                <p class="a2">2019-2022</p>
+
+            </div>
+        </div>
