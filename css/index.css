@@ -169,3 +169,34 @@ samp {
 }
 
 
+.titulo-ex{
+
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+.titulo-h2{
+
+    display: inline-block;
+    margin-left: 45.5%;
+    margin-top: 7rem;
+    font-weight: bold;
+
+}
+.pp{
+    display: flex;
+    margin-left: 46.1%;
+}
+
+.h2--{
+    margin-left: 65%;
+    margin-top: -45px;
+
+}
+.icono{
+    margin-top: -126px;
+    margin-left: 320px;
+    margin-bottom: 15%;
+}
