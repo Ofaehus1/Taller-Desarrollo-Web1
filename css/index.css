@@ -140,16 +140,18 @@ samp {
     
     margin-top: 15px;
     margin-left: 31%;
-    color: wheat;
+    color: white;
     font-size: 18px;
+    font-weight: bold;
     
 } 
 .u2{
-    margin-top: -40PX;
+    margin-top: -44PX;
     margin-left: 57%;
-    color: wheat;
+    color: white;
     font-size: 18px;
     display: flex;
+    font-weight: bold;
   
 }
 .a{
